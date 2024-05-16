@@ -52,6 +52,61 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
-answer 4:
 
+answer 4:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   answers.md
+
+
+Answer 5: 
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Answer 6:
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7:
+
+On branch master
+nothing to commit, working tree clean
+
+Answer 8:
+
+commit c2234abcc3101e4066b1b60511caba6907d74da9 (HEAD -> master)
+Author: Dylan <dw303423@ohio.edu>
+Date:   Thu May 16 16:59:08 2024 -0400
+
+    Initial commit
 
